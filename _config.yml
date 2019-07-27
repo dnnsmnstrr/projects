@@ -34,16 +34,16 @@ social_media:
   facebook: dennismuensterer
   # hackerrank: your_username
   instagram: dnnsmnstrr
-  # keybase: your_username
+  keybase: dnnsmnstrr
   linkedin: dennismuensterer
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
-  # telegram: your_username
+  telegram: dnnsmnstrr
   twitter: dnnsmnstrr
   # unsplash: your_username
   # vk: your_username
-  website: http://dnnsmnstrr.github.io
+  website: http://muensterer.tech
   # youtube: your_username
 
 topics:
@@ -52,6 +52,8 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
+
+  - name: Testing
 
   - name: Sass
     web_url: https://github.com/topics/sass
