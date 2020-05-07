@@ -28,6 +28,7 @@ projects:
     projects:
     # - repo-name
 
+
 social_media:
   # behance: your_username
   # dribbble: your_username
@@ -43,8 +44,40 @@ social_media:
   twitter: dnnsmnstrr
   # unsplash: your_username
   # vk: your_username
-  website: http://muensterer.tech
-  # youtube: your_username
+  website: https://muensterer.tech
+  youtube: dennismuensterer
+
+languages:
+  - name: JavaScript
+    experience: 7
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
+  - name: Swift
+    experience: 5
+    web_url: https://github.com/topics/swift
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
+
+  - name: Java
+    experience: 6
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
+
+  - name: C
+    experience: 3
+    web_url: https://github.com/topics/c
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png
+
+  - name: Python
+    experience: 2
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+
+  - name: C++
+    experience: 4
+    web_url: https://github.com/topics/cpp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
+
 
 topics:
   - name: CSS
